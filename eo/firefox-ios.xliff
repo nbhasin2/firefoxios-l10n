@@ -380,8 +380,8 @@
         <target>$(MOZ_PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>0.0.1</source>
-        <target>0.0.1</target>
+        <source>28.2</source>
+        <target>28.2</target>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
@@ -1718,8 +1718,7 @@
       <trans-unit id="New Tab">
         <source>New Tab</source>
         <target>Nova langeto</target>
-        <note>Accessibility label for the New Tab button in the tab toolbar.
-   Accessibility Label for the tab toolbar New tab button</note>
+        <note>Accessibility label for the New Tab button in the tab toolbar.</note>
       </trans-unit>
       <trans-unit id="No">
         <source>No</source>
@@ -1855,10 +1854,6 @@
         <source>Reload</source>
         <target>Reŝargi</target>
         <note>Accessibility Label for the tab toolbar Reload button</note>
-      </trans-unit>
-      <trans-unit id="Reload page">
-        <source>Reload page</source>
-        <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Remove">
         <source>Remove</source>
@@ -3382,8 +3377,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>0.0.1</source>
-        <target>0.0.1</target>
+        <source>28.2</source>
+        <target>28.2</target>
       </trans-unit>
     </body>
   </file>
@@ -3401,8 +3396,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>0.0.1</source>
-        <target>0.0.1</target>
+        <source>28.2</source>
+        <target>28.2</target>
       </trans-unit>
     </body>
   </file>
@@ -3420,8 +3415,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>0.0.1</source>
-        <target>0.0.1</target>
+        <source>28.2</source>
+        <target>28.2</target>
       </trans-unit>
     </body>
   </file>
@@ -3922,7 +3917,8 @@ Link</source>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickViewGalleryTitle">
         <source>Quick View</source>
-        <note>Title for Quick View widget in Gallery View where user can add it to home screen</note>
+        <note>Quick View title user is picking a widget to add.
+   Title for Quick View widget in Gallery View where user can add it to home screen</note>
       </trans-unit>
       <trans-unit id="TodayWidget.QuickViewLargeGalleryDescription">
         <source>Add shortcuts to your open tabs.</source>
@@ -4104,3 +4100,4 @@ Private Tab</source>
     </body>
   </file>
 </xliff>
+
